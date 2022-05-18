@@ -1,0 +1,13 @@
+/* main {
+    grid-template-columns: 0fr 3fr 1fr;
+}
+
+.main_directory {
+    visibility: hidden;
+} */
+
+.connect_link {
+    text-decoration: none;
+    color: red;
+    font-weight: bold;
+}
